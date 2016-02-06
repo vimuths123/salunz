@@ -267,7 +267,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title text-left">Real human hair extensions</h4>
-                                        <span class="text-left category">Fashion Industry&nbsp;&nbsp;•&nbsp;&nbsp;United Kingdom</span>
+                                        <span class="text-left category">Fashion Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;United Kingdom</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Magento Development + Mobile Website + WordPress Development</span>
                                         <div class="popup-line"></div>
@@ -275,7 +275,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jacskon Smith&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jacskon Smith&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -299,7 +299,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">Apple New Design</h4>
-                                        <span class="category">product Industry&nbsp;&nbsp;•&nbsp;&nbsp;United States of America</span>
+                                        <span class="category">product Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;United States of America</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Magento Development + Mobile Website + eNewsletter</span>
                                         <div class="popup-line"></div>
@@ -307,7 +307,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Stella Kromstain&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Stella Kromstain&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -331,7 +331,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">Dreams</h4>
-                                        <span class="category">design Industry&nbsp;&nbsp;•&nbsp;&nbsp;australia</span>
+                                        <span class="category">design Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;australia</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Magento Development + WordPress Development + Mobile Website</span>
                                         <div class="popup-line"></div>
@@ -339,7 +339,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jerry Gordinter&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jerry Gordinter&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -363,7 +363,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">Dreams of glory</h4>
-                                        <span class="text-left category">Illustraion Industry&nbsp;&nbsp;•&nbsp;&nbsp;United States of America</span>
+                                        <span class="text-left category">Illustraion Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;United States of America</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">WordPress Development + Blog + Branding + eNewsletter</span>
                                         <div class="popup-line"></div>
@@ -371,7 +371,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jone Doe&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jone Doe&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -395,15 +395,15 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">Real human hair extensions</h4>
-                                        <span class="text-left category">Still thinking?&nbsp;&nbsp;•&nbsp;&nbsp;No more worries</span>
+                                        <span class="text-left category">Still thinking?&nbsp;&nbsp;â€¢&nbsp;&nbsp;No more worries</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Real human hair extensions + color</span>
                                         <div class="popup-line"></div>
-                                        <p>Real human hair extensions We will give u volume,healthy,long,thick hair instead of u have.💫 U can iron,do hair styles,colour,comb,wash or anything what u want to do.</p>
-                                        <p>Real human hair extensions We will give u volume,healthy,long,thick hair instead of u have.💫 U can iron,do hair styles,colour,comb,wash or anything what u want to do.</p>
+                                        <p>Real human hair extensions We will give u volume,healthy,long,thick hair instead of u have.ðŸ’« U can iron,do hair styles,colour,comb,wash or anything what u want to do.</p>
+                                        <p>Real human hair extensions We will give u volume,healthy,long,thick hair instead of u have.ðŸ’« U can iron,do hair styles,colour,comb,wash or anything what u want to do.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Oshadi Himasha </span>
-                                        <p class="client-speak">Oshadi Himasha. 26 Mar, 2015. Oshadi Himasha 09. 4 Photographs of Sri Lankan Model Oshadi Himasha. Photography by Kasun Di Smaranayake. Share this.<span>Jacskon Smith&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">Oshadi Himasha. 26 Mar, 2015. Oshadi Himasha 09. 4 Photographs of Sri Lankan Model Oshadi Himasha. Photography by Kasun Di Smaranayake. Share this.<span>Jacskon Smith&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -427,7 +427,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">flat screen wall</h4>
-                                        <span class="text-left category">Fashion Industry&nbsp;&nbsp;•&nbsp;&nbsp;United Kingdom</span>
+                                        <span class="text-left category">Fashion Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;United Kingdom</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Magento Development + WordPress Development + Mobile Website</span>
                                         <div class="popup-line"></div>
@@ -435,7 +435,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Stella Kromstain&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Stella Kromstain&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -459,7 +459,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">parament action</h4>
-                                        <span class="text-left category">product Industry&nbsp;&nbsp;•&nbsp;&nbsp;United States of America</span>
+                                        <span class="text-left category">product Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;United States of America</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Custom Website Development + Facebook Pages Design + eNewsletter</span>
                                         <div class="popup-line"></div>
@@ -467,7 +467,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jerry Gordinter&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jerry Gordinter&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -491,7 +491,7 @@
                                     </div>
                                     <div class="right-part">
                                         <h4 class="title">visual art exibition</h4>
-                                        <span class="text-left category">Fashion Industry&nbsp;&nbsp;•&nbsp;&nbsp;australia</span>
+                                        <span class="text-left category">Fashion Industry&nbsp;&nbsp;â€¢&nbsp;&nbsp;australia</span>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Custom Website Development + Branding + Campaign </span>
                                         <div class="popup-line"></div>
@@ -499,7 +499,7 @@
                                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
                                         <div class="popup-line"></div>
                                         <span class="work-details">Client Speak</span>
-                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jone Doe&nbsp;&nbsp;•&nbsp;&nbsp;Google Inc</span></p>
+                                        <p class="client-speak">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.<span>Jone Doe&nbsp;&nbsp;â€¢&nbsp;&nbsp;Google Inc</span></p>
                                     </div>
                                 </figcaption>
                             </figure>
@@ -844,67 +844,73 @@
 <script type="text/javascript" src="js/jquery.datetimepicker.full.js"></script>
 
 <script type="text/javascript">
-    var al = function (currentDateTime) {
+    var al = function(currentDateTime) {
 
-        var date = ('0' + currentDateTime.getDate()).slice(-2) + '/'
+        var date = currentDateTime.getFullYear() + '/'
                 + ('0' + (currentDateTime.getMonth() + 1)).slice(-2) + '/'
-                + currentDateTime.getFullYear();
+                + ('0' + currentDateTime.getDate()).slice(-2);
 
-        $.post("getdate.php", {date: date}, function (data) {
-//            alert(data);
-            $('#default_datetimepicker').datetimepicker({
-                allowTimes: [
-                    '08:00', '09:00'
-                ]
-            });
+        $.ajax({
+            url: 'getdate.php',
+            type: 'POST',
+            data: {date: date},
+            success: function(data) {
+                var days = jQuery.parseJSON(data);
+                $('#default_datetimepicker').datetimepicker({
+                    allowTimes: days
+                });
+            }
         });
-
-//        this.setOptions({
-//            allowTimes: ['08:00', '09:00'],
-//        });
-
-//        this.setOptions({
-//            allowTimes: [
-//                '08:00', '09:00'
-//            ],
-//        });
     };
 
-    $(function () {
+<?php
+//Databse connection
+$username = "root";
+$password = "";
+$hostname = "localhost";
+$dbname = "salunz";
+$conn = new mysqli($hostname, $username, $password, $dbname);
+
+$times = array(
+    '08:00', '09:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00', '17:00'
+);
+
+date_default_timezone_set("Asia/Bangkok");
+$date = date("Y/m/d");
+
+//Check the date in database
+$result = $conn->query("SELECT `booking_time` FROM `booking` WHERE `booking_date` = '" . $date . "'");
+
+if ($result->num_rows > 0) {
+    while ($row = $result->fetch_assoc()) {
+        foreach ($times as $key => $value) {
+            if ($row{'booking_time'} == $value) {
+                unset($times[$key]);
+                $times = array_values($times);
+            }
+        }
+    }
+}
+?>
+
+    $(function() {
+//        var datesPhp = <?php ?>
+//        
+//        var days = jQuery.parseJSON(datesPhp);
+
+
         $('#default_datetimepicker').datetimepicker({
-            allowTimes: [
-                '08:00', '09:00', '10:00', '11:00', '12:00', '13:00', '14:00', '15:00', '16:00',
-                '17:00'
-            ],
+            allowTimes: <?php echo json_encode($times) ?>,
 //            disabledDates: ['06.02.2016'],
-            formatTime: 'H:i',
+//            formatTime: 'H:i',
+            formatTime: 'g:i A',
             formatDate: 'd.m.Y',
-            //defaultDate:'8.12.1986', // it's my birthday
-            defaultDate: '+03.01.1970', // it's my birthday
             defaultTime: '08:00',
-            onChangeDateTime: al
-//            timepickerScrollbar: false
+            onChangeDateTime: al,
+            onChangeMonth:al,
+            onChangeYear:al,
+            timepickerScrollbar: true
         });
-//        $('.confSubmit').click(function(){
-////            alert($('#default_datetimepicker').val());
-////            2016/01/07 10:00
-//              var newTime = $('#default_datetimepicker').val();  
-//
-//              if(newTime === ""){
-//                  $('.timeTaken').hide();
-//                  $('.timeEmpty').show();
-//              }else if(newTime === '2016/01/07 10:00'){
-//                  $('.timeEmpty').hide();
-//                  $('.timeTaken').show();
-//              }else{
-//                  $('.timeEmpty').hide();
-//                  $('.timeTaken').hide();
-//                  
-//                  $.post('bookNow.php', function (data){
-//                      alert(data);
-//                  });
-//              }
-//        });
     });
 </script>
 </body>
